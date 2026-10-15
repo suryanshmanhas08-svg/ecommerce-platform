@@ -86,10 +86,5 @@ Run `src/main/Main.java` from your IDE. The login window opens.
 - `products` (id, name, description, price, stock, seller_id)
 - `orders` (id, buyer_id, product_id, quantity, status, order_date)
 
-## Screenshots
 
-[Add screenshots of the login, admin, seller and buyer screens here.]
 
-## Future Improvements
-
-Shopping cart, payment integration, product images, wishlist and sales charts.
