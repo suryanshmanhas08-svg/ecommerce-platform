@@ -2,13 +2,7 @@
 
 A desktop e-commerce application built with **Java Swing** and **MySQL (JDBC)**. Sellers list products, buyers purchase them, and administrators manage the system. Each role gets its own dashboard.
 
-## Team
 
-| Name | Role |
-|---|---|
-| [Your Name] | Team Lead and Developer |
-
-College: [College name]
 
 ## Features
 
